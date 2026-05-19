@@ -1,0 +1,33 @@
+{
+  "config": {
+    "showAds": false
+  },
+  "2024": {
+    "minWage": 9860,
+    "health": 3.545,
+    "pension": 4.5,
+    "employment": 0.9,
+    "longTermCare": 12.95
+  },
+  "2025": {
+    "minWage": 10030,
+    "health": 3.545,
+    "pension": 4.5,
+    "employment": 0.9,
+    "longTermCare": 12.95
+  },
+  "2026": {
+    "minWage": 10320,
+    "health": 3.595,
+    "pension": 4.75,
+    "employment": 0.9,
+    "longTermCare": 13.14
+  },
+  "2027": {
+    "minWage": 10510,
+    "health": 3.595,
+    "pension": 4.75,
+    "employment": 0.9,
+    "longTermCare": 13.14
+  }
+}
